@@ -1,4 +1,4 @@
-# Java OOP Practice Code
+# Java OOP Practice Coding 
 
 Welcome to my Java OOP practice repository! Here, you will find practice code and solutions for various topics related to Object-Oriented Programming (OOP) in Java. The code and explanations are organized based on the following topics:
 
