@@ -1,6 +1,7 @@
 # Object Oriented Programming with Java: Complete beginners
 
 This repository contains the exercises and examples for the Udemy course "Object Oriented Programming with Java: Complete beginners" by Tilika Kulkarni.
+Which is a Free Course You can Access it using the Udemy Platform.
 
 ## Table of Contents
 
