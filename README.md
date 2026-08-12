@@ -37,3 +37,67 @@ I encourage you to provide feedback, suggestions, and improvements for the code 
 This project is licensed under the [MIT License](LICENSE).
 
 Happy coding! 🚀
+
+
+## Topics Covered (Updated)
+1. Introduction to OOP and Java
+2. Encapsulation
+3. Inheritance, Abstract Classes and Methods
+4. Interfaces
+5. Polymorphism
+6. Exception Handling
+7. Collections Framework
+8. Generics
+9. Multithreading and Concurrency
+10. File Handling and IO
+11. Java 8 Streams Lambdas Functional Interfaces
+12. Design Patterns and Expert Mini-Projects
+
+## Repository Structure
+- `Practical 01 - Introduction to OOP and Java/`
+- `Practical 02 - Encapsulation/`
+- `Practical 03 - Inheritance Abstract Classes and Methods/`
+- `Practical 04 - Interfaces/`
+- `Practical 05 - Polymorphism/`
+- `Practical 06 - Exception Handling/`
+- `Practical 07 - Collections Framework/`
+- `Practical 08 - Generics/`
+- `Practical 09 - Multithreading and Concurrency/`
+- `Practical 10 - File Handling and IO/`
+- `Practical 11 - Java 8 Streams Lambdas Functional Interfaces/`
+- `Practical 12 - Design Patterns and Expert Mini-Projects/`
+- `docs/`
+
+**Note:** 100 practicals, beginner to expert, each with code + viva Q&A. See `docs/java_practicals_source.md` for the full reference document with explanations.
+
+
+## Topics Covered (Updated)
+1. Introduction to OOP and Java
+2. Encapsulation
+3. Inheritance, Abstract Classes and Methods
+4. Interfaces
+5. Polymorphism
+6. Exception Handling
+7. Collections Framework
+8. Generics
+9. Multithreading and Concurrency
+10. File Handling and IO
+11. Java 8 Streams Lambdas Functional Interfaces
+12. Design Patterns and Expert Mini-Projects
+
+## Repository Structure
+- `Practical 01 - Introduction to OOP and Java/`
+- `Practical 02 - Encapsulation/`
+- `Practical 03 - Inheritance Abstract Classes and Methods/`
+- `Practical 04 - Interfaces/`
+- `Practical 05 - Polymorphism/`
+- `Practical 06 - Exception Handling/`
+- `Practical 07 - Collections Framework/`
+- `Practical 08 - Generics/`
+- `Practical 09 - Multithreading and Concurrency/`
+- `Practical 10 - File Handling and IO/`
+- `Practical 11 - Java 8 Streams Lambdas Functional Interfaces/`
+- `Practical 12 - Design Patterns and Expert Mini-Projects/`
+- `docs/`
+
+**Note:** 100 practicals, beginner to expert, each with code + viva Q&A. See `docs/java_practicals_source.md` for the full reference document with explanations.
